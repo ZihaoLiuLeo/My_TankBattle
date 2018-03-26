@@ -4,3 +4,4 @@ Open world tank battle with simple AI, terrain, and control system in UE4. (Lear
 ## Building Part List
 *P1 Intro, Notes & Assets
 *P2 Game Design Document(GDD)
+*P3 Setting up a GitHub "Repo"
